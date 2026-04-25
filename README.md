@@ -1,9 +1,13 @@
 # Big Data Hadoop Project
 
 ## Project Title
-Sales Data Analysis using Hadoop (HDFS, MapReduce, Hive)
+E-commerce Transaction Data Analysis using Hadoop (HDFS, MapReduce, Hive)
 
 ---
+
+## 📌 Description
+This project analyzes a sales dataset (sales.csv) using Hadoop (HDFS) and Hive. It extracts insights like total sales, product performance, and category-wise trends using SQL-like queries.
+
 
 ## Group Members
 - Kulsum Fatima(1240258239)
@@ -22,7 +26,13 @@ Sales Data Analysis using Hadoop (HDFS, MapReduce, Hive)
 ---
 
 ## Dataset
-Sales dataset containing order_id product , category , quantity,price,date.
+Sales dataset containing 
+order_id
+product 
+category 
+quantity
+price
+date.
 
 ---
 
